@@ -41,13 +41,13 @@
 
 ### HOOKS, EXPO, FIREBASE, STRIPE, REACT NATIVE
 
-![img](./assets/ss1.jpg){: height="600px" width="200px"}
-![img](./assets/ss2.jpg){: height="600px" width="200px"}
-![img](./assets/ss3.jpg){: height="600px" width="200px"}
-![img](./assets/ss4.jpg){: height="600px" width="200px"}
-![img](./assets/ss5.jpg){: height="600px" width="200px"}
-![img](./assets/ss6.jpg){: height="600px" width="200px"}
-![img](./assets/ss8.jpg){: height="600px" width="200px"}
-![img](./assets/ss9.jpg){: height="600px" width="200px"}
-![img](./assets/ss10.jpg){: height="600px" width="200px"}
-![img](./assets/ss11.jpg){: height="600px" width="200px"}
+![img](./assets/ss1.jpg){: height="600" width="200"}
+![img](./assets/ss2.jpg){: height="600" width="200"}
+![img](./assets/ss3.jpg){: height="600" width="200"}
+![img](./assets/ss4.jpg){: height="600" width="200"}
+![img](./assets/ss5.jpg){: height="600" width="200"}
+![img](./assets/ss6.jpg){: height="600" width="200"}
+![img](./assets/ss8.jpg){: height="600" width="200"}
+![img](./assets/ss9.jpg){: height="600" width="200"}
+![img](./assets/ss10.jpg){: height="600" width="200"}
+![img](./assets/ss11.jpg){: height="600" width="200"}
