@@ -46,3 +46,5 @@
 ![img](./assets/ss5.jpg){height="600" width="200"} ![img](./assets/ss6.jpg){height="600" width="200"}
 ![img](./assets/ss8.jpg){height="600" width="200"} ![img](./assets/ss9.jpg){height="600" width="200"}
 ![img](./assets/ss10.jpg){height="600" width="200"} ![img](./assets/ss11.jpg){height="600" width="200"}
+
+<img src="ss1.jpg" width="10%" height="30%">
