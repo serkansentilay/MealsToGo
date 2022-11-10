@@ -41,13 +41,13 @@
 
 ### HOOKS, EXPO, FIREBASE, STRIPE, REACT NATIVE
 
-![img|200x600](./assets/ss1.jpg)
-![img|200x600](./assets/ss2.jpg)
-![img|200x600](./assets/ss3.jpg)
-![img|200x600](./assets/ss4.jpg)
-![img|200x600](./assets/ss5.jpg)
-![img|200x600](./assets/ss6.jpg)
-![img|200x600](./assets/ss8.jpg)
-![img|200x600](./assets/ss9.jpg)
-![img|200x600](./assets/ss10.jpg)
-![img|200x600](./assets/ss11.jpg)
+![img](./assets/ss1.jpg|200x600)
+![img](./assets/ss2.jpg|200x600)
+![img](./assets/ss3.jpg|200x600)
+![img](./assets/ss4.jpg|200x600)
+![img](./assets/ss5.jpg|200x600)
+![img](./assets/ss6.jpg|200x600)
+![img](./assets/ss8.jpg|200x600)
+![img](./assets/ss9.jpg|200x600)
+![img](./assets/ss10.jpg|200x600)
+![img](./assets/ss11.jpg|200x600)
