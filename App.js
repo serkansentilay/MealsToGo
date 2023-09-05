@@ -14,7 +14,7 @@ import "firebase/compat/auth";
 import { AuthenticationContextProvider } from "./src/services/authentication/authentication.context";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA5s8rjEP8yDbfbkGYnaJdACG5Zk3Mdjds",
+  apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   authDomain: "mealstogo-8119c.firebaseapp.com",
   projectId: "mealstogo-8119c",
   storageBucket: "mealstogo-8119c.appspot.com",
